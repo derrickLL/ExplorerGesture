@@ -1,0 +1,11 @@
+# Runtime / input method logs
+*.log
+.tmp/
+
+# Unused upstream AutoHotkey bundle files (not needed for ExplorerGesture)
+/UX/
+/Install.cmd
+/AutoHotkey32.exe
+/AutoHotkey64.exe
+/AutoHotkey.chm
+/WindowSpy.ahk
